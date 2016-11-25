@@ -1,0 +1,18 @@
+Reference, Quantity, Value, Footprint, Datasheet, Characteristics, Description, Package ID, Source, Critical, Notes, Manufacturer Name, Manufacturer Part Number
+C1 ,1,15nF,Capacitors_SMD:C_0805,,CERM, 10V, +-10%, X5R,,0805,,,,,
+C2 ,1,1uF,Capacitors_SMD:C_0805,,TANT, 10V, +-20%,,0805,,,,,
+C3 ,1,100nF,Capacitors_SMD:C_0805,,CERM, 10V, +-10%, X5R,,0805,,,,,
+C4 ,1,10uF,Capacitors_SMD:C_0805,,TANT, 10V, +-20%,,0805,,,,,
+LED1 ,1,Green,LEDs:LED_0805,http://optoelectronics.liteon.com/upload/download/DS-22-99-0226/S_110_LTST-C170TBKT.pdf,,,0805,ANY,,,LITE-ON, LTST-C171GKT 
+LED2 ,1,Yellow,LEDs:LED_0805,http://optoelectronics.liteon.com/upload/download/DS22-2000-110/S_110_LTST-C171KSKT.pdf,,,0805,ANY,,,LITE-ON,LTST-C171KSKT
+LED3 ,1,Orange,LEDs:LED_0805,hhttp://optoelectronics.liteon.com/upload/download/DS-22-99-0185/S_110_LTST-C170KFKT.pdf,,,0805,ANY,,,LITE-ON,LTST-C170KFKT
+LED4 ,1,Red,LEDs:LED_0805,http://optoelectronics.liteon.com/upload/download/DS22-2000-109/S_110_LTST-C171KRKT.pdf,,,0805,ANY,,,LITE-ON,LTST-C171KRKT
+M1 ,1,zb3219PA,printmodules:zb3219PAmoduleFootprint,http://www.sz-cyit.com/ProductShow.asp?ID=124,CC2538+CC2592 module,Cheap cc2538 module ($14.80),Custom - made from pinheaders 1.27mm pitch,SPEC,X,Found on Aliexpress: http://www.aliexpress.com/item/CC2538-module-CC2538-CC2592-ZigBee-high-Power-Module/32482311343.html,?,zb3219PA
+P1 ,1,JTAG,Pin_Headers:Pin_Header_Straight_2x05_Pitch1.27mm,,,,,,,http://www.aliexpress.com/item/Free-Shipping-20pcs-lot-jtag-Block-10pin-straight-pin-DC3-10-Pin-DC3-10-Shrouded-Male/32568499180.html?spm=2114.01010208.3.59.wzsLXU&ws_ab_test=searchweb201556_10,searchweb201602_5_10017_10005_10006_10034_10021_507_10022_508_10020_10018_10019,searchweb201603_6&btsid=f785bb3a-dad8-4983-af37-79e666a724b0,,
+P2 ,1,XBEE,My modules:XBEE-HEADER,
+R1 ,1,1k,Resistors_SMD:R_0805,,5%, 0.063W,,0805,ANY,,,,
+R2 ,1,6.2k,Resistors_SMD:R_0805,,5%, 0.063W,,0805,ANY,,,,
+R3 ,1,30k,Resistors_SMD:R_0805,,5%, 0.063W,,0805,ANY,,,,
+R4 R5 R6 R7 ,4,680,Resistors_SMD:R_0805,,5%, 0.125W,,0805,ANY,,,,
+SW1 ,1,Reset,Buttons_Switches_SMD:SW_SPST_B3U-1000P-B,http://www.omron.com/ecb/products/pdf/en-b3u.pdf,0.05A @ 12VDC ,SWITCH TACTILE SPST-NO,,SPEC,,,Omron,B3U-1000P-B
+SW2 ,1,User,Buttons_Switches_SMD:SW_SPST_B3U-1000P-B,http://www.omron.com/ecb/products/pdf/en-b3u.pdf,0.05A @ 12VDC ,SWITCH TACTILE SPST-NO,,SPEC,,,Omron,B3U-1000P-B
